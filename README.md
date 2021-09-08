@@ -23,6 +23,8 @@ Descomprimindo o .zip temos, os arquivos contidos são especificados abaixo:
 ![Cap arquivos](https://user-images.githubusercontent.com/80544744/132448172-b59347e8-4d3e-4798-9891-81f08f4eb368.png)
 
 
+Arquivo zip upado no Drive:"https://drive.google.com/file/d/1dReI8DKkYBzhFJgFW_LrW_kc4vus3AZM/view?usp=sharing"
+
 
 Hashes do Setup.exe:
 
