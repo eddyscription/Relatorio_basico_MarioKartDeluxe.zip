@@ -1,7 +1,7 @@
 # Relatorio_basico_MarioKartDeluxe.zip
 Arquivo malicioso sendo compartilhado como um jogo 
 
-Arquivo potencialmente malicioso, sendo compartilhada como uma versão gratuita de "mario kart 8", um jogo de Nintendo Switch.O mesmo foi compartilhado no Facebook por meio do "Patrocínio" como demonstrado na captura;
+Arquivo potencialmente malicioso, sendo compartilhada como uma versão gratuita de "Mario Kart 8 Deluxe", um jogo de Nintendo Switch.O mesmo foi compartilhado no Facebook por meio do "Patrocínio" como demonstrado na captura;
 
 ![Cap anuncio](https://user-images.githubusercontent.com/80544744/132448073-26e8e49f-d78e-46cb-b2d3-b86ad568e856.png)
 
