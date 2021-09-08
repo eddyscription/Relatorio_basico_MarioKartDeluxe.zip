@@ -26,9 +26,7 @@ Descomprimindo o .zip temos, os arquivos contidos são especificados abaixo:
 
 Hashes do Setup.exe:
 
-MD5 4b75c0dd3eeaa4a3cff8b8b114f86053
-SHA-1 324637b0477659f2ec2c555a2085059b767057c5
-SHA-256 a85decd4fe5576cc216da20a2552db55ff1318d73ceddc389c363575b4c2023d
+MD5 4b75c0dd3eeaa4a3cff8b8b114f86053                                                                                                                                            SHA-1 324637b0477659f2ec2c555a2085059b767057c5                                                                                                                                     SHA-256 a85decd4fe5576cc216da20a2552db55ff1318d73ceddc389c363575b4c2023d
 
 
 
